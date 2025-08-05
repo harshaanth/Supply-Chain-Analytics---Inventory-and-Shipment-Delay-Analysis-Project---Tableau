@@ -2,17 +2,24 @@
 
 Tools: Tableau, Dashboards
 
-Analyzed shipment data using Tableau to improve operational efficiency. Calculated and visualized inventory by sales delta for product categories over time. Darted products in the supply and demand chart to identify overstocked and understocked products. Built KPIs to identify a 61% order delay rate, with a peak in October 2016. Calculated order, shipping, and delivery time data to identify delay time and critical areas for demand forecasting and inventory management strategies. Enhanced overall supply chain efficiency to reduce delay time.
-
 Click on the link to view and interact with the dashboard: https://public.tableau.com/app/profile/harshaanth.kumar.thiyagaraja.kumar7877/viz/InventoryandShipmentDelayAnalysis/InventoryDashboard
 
-## Project Overview
-This project analyzes inventory levels and shipment delays using Tableau to optimize supply chain performance and inventory management. The objective is to identify key areas for improvement in shipment speed, stock management, and overall operational efficiency.
+## Introduction
+This project analyzes inventory levels and shipment delays using Tableau to optimize supply chain performance and inventory management. The goal was to uncover bottlenecks, stock imbalances, and delivery inefficiencies that affect operational success and customer satisfaction.
+
+## Problem
+Calwest, a large retailer specializing in consumer goods, struggled to align inventory supply with customer demand and experienced significant shipment delays. With over 61% of orders delayed and fluctuating stock levels across categories, the company needed a data-driven solution to improve forecasting, reduce inefficiencies, and enhance service reliability.
+
+## Solution
+I integrated and modeled data from three sources (orders, inventory, fulfillment) into Tableau and developed interactive dashboards to identify delay patterns and inventory mismatches. I calculated key metrics such as order-to-delivery timelines, shipment delays by region and product category, and inventory deltas over time. Supply-demand alignment was visualized using a darted scatter plot to pinpoint over- and understocked items.
+
+## Value Delivered
+The analysis revealed key bottlenecks — including a 61% overall delay rate, spikes in October 2016, and persistent understocking in categories like Indoor/Outdoor Games and Women’s Apparel. Country-specific insights showed Puerto Rico had longer delivery times despite fewer delays. These insights helped inform targeted strategies to improve forecasting, regional logistics, and inventory planning — driving higher operational efficiency and customer satisfaction.
+
+---
 
 ## Context
 Efficient supply chain management is essential for operational success. By monitoring inventory levels and analyzing shipment delays, companies can make data-driven decisions to optimize stock levels, improve customer satisfaction, and reduce logistical bottlenecks. This analysis identifies shipment delay trends over time and pinpoints product categories that frequently experience understock or overstock issues.
-
----
 
 ## Data Sources
 The project integrates data from three main sources, connected to create a unified data model in Tableau:
